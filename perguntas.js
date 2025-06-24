@@ -6,62 +6,62 @@ criarCartao(
 
 criarCartao(
     "Q1",    
-    "O que a IA simula?",  
-    "Habilidades cognitivas" 
+    "Quais são as principais diferenças entre répteis e anfíbios em termos de habitat e características fisiológicas?",  
+    "São animais de sangue frio (ectotérmicos) e têm pele coberta por escamas ou placas córneas, o que os ajuda a conservar a água. Eles habitam principalmente ambientes secos e têm ovos com casca dura, que evitam a desidratação. Já os anfíbios também são ectotérmicos, mas precisam de água ou ambientes úmidos para sobreviver, especialmente na fase larval. Sua pele é permeável à água e trocas gasosas, e eles geralmente têm ovos gelatinosos, sem casca dura, que precisam de ambientes aquáticos ou úmidos."
 );
 
 criarCartao(
     "Q2",    
-    "Qual subcampo lida com reconhecimento de imagens",  
-    "Visão computacional" 
+    "Como as abelhas contribuem para a polinização e por que isso é essencial para os ecossistemas?",  
+    "As abelhas são polinizadoras essenciais, transportando pólen de flor em flor enquanto buscam néctar. Isso ajuda na reprodução de muitas plantas, incluindo culturas agrícolas. Sem a polinização, a produção de alimentos e a biodiversidade dos ecossistemas seriam drasticamente afetadas." 
 );
 
 criarCartao(
     "Q3",    
-    "Qual a sigla do subcampo que processa linguagem natural?",  
-    "PLN" 
+    "Quais são os animais mais adaptados a viver em ambientes de grande altitude, como os Andes ou o Himalaia?",  
+    "Animais como a lhamas, buitres-de-cabeça-preta e o tigre-da-neve são bem adaptados a altas altitudes. Esses animais possuem adaptações fisiológicas como maior capacidade de transporte de oxigênio e metabolismo mais lento para lidar com o ar rarefeito." 
 );
 
 criarCartao(
     "Q4",    
-    "Quantos subcampos principais a IA abrange?",  
-    "4" 
+    "O que é o efeito de borda e como ele impacta a biodiversidade nas florestas tropicais?",  
+    "O efeito de borda se refere às mudanças nas condições ambientais ao longo da margem de um habitat natural, como uma floresta. Isso pode afetar a biodiversidade de várias maneiras, como aumentar a exposição à luz solar, modificar a temperatura e aumentar o risco de incêndios. Animais e plantas que dependem de condições específicas podem ser mais vulneráveis."
 );
 
 criarCartao(
     "Q5",    
-    "Cite uma aplicação de IA na área da saúde mencionada.",  
-    "Diagnóstico" 
+    "O que diferencia os vertebrados dos invertebrados?",  
+    "Os vertebrados possuem coluna vertebral e crânio, enquanto os invertebrados não possuem coluna vertebral." 
 );
 
 criarCartao(
     "Q6",    
-    "Qual assistente virtual mencionado ajuda em tarefas diárias?",  
-    "Siri" 
+    "Quais são as principais classes de vertebrados e um exemplo de cada uma?",  
+    "Peixes (ex: salmão), Anfíbios (ex: rã), Répteis (ex: jacaré), Aves (ex: águia), Mamíferos (ex: leão)" 
 );
 
 criarCartao(
     "Q7",    
-    "Qual termo refere-se ao preconceito em algoritmos?",  
-    "Viés" 
+    "Como funciona a metamorfose em anfíbios, como os sapos?",  
+    "Os sapos passam por uma metamorfose completa: nascem como girinos (com cauda e brânquias), depois desenvolvem pernas, perdem a cauda e passam a respirar pelos pulmões como adultos." 
 );
 
 criarCartao(
     "Q8",    
-    "Para que tarefa carros autônomos usam IA?",  
-    "Navegação" 
+    "Qual a importância dos insetos para os ecossistemas?",  
+    "Insetos polinizam plantas, reciclam matéria orgânica, servem de alimento para outros animais e ajudam no controle de pragas." 
 );
 
 criarCartao(
     "Q9",    
-    "Que subcampo combina IA e engenharia mecânica?",  
-    "Robótica" 
+    "O que é simetria corporal e quais são os tipos mais comuns nos animais?",  
+    "Simetria corporal é a forma como o corpo de um animal é organizado. Os principais tipos são: Simetria bilateral (ex: humanos), Simetria radial (ex: águas-vivas), Assimetria (ex: esponjas-do-mar)" 
 );
 
 criarCartao(
     "Q10",    
-    "Em qual domínio a IA é usada para avaliação de riscos?",  
-    "Finanças" 
+    "Como os mamíferos se diferenciam dos demais grupos de animais?",  
+    "Mamíferos possuem glândulas mamárias (produzem leite), pelos em alguma fase da vida, são de sangue quente e a maioria dá à luz filhotes vivos." 
 );
 
 document.querySelectorAll('#container .cartao').forEach(cartao => {
